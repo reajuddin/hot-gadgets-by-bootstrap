@@ -1,0 +1,23 @@
+.banner-design{
+    background-color: bisque;
+    border-radius: 10px;
+    margin: 50px 120px 50px 120px;
+}
+
+.banner-text{
+    padding: 150px;
+}
+
+.carousel img{
+    padding: 50px;
+}
+
+.buy-now-button {
+    background-image: linear-gradient(to bottom, #000000 0%, #6d5b62 100%);
+    color: rgb(255, 255, 255);
+    border: none;
+    box-shadow: 5px 5px 10px gray;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
