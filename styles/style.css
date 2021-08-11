@@ -16,3 +16,20 @@
 .carousel img{
     padding: 20px;
 }
+.see{
+    color: yellowgreen;
+}
+
+#smartphones{
+    margin-bottom: 100px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgrey;
+    border-radius: 10px;
+}
+.card-footer{
+    border: none;
+    text-align: center;
+    background-color: white;
+}
