@@ -1,6 +1,9 @@
 .carousel{
     position: relative;
 }
+.carousel img{
+    background-image: url("images/bg-1");
+}
 .banner-design{
     padding: 20px;
 }
@@ -21,6 +24,11 @@
 }
 
 #smartphones{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+#laptop{
+    margin-top: 100px;
     margin-bottom: 100px;
 }
 .card{
@@ -32,4 +40,25 @@
     border: none;
     text-align: center;
     background-color: white;
+}
+
+.catagories{
+    text-align: center;
+}
+
+.cat-1, .cat-2, .cat-3{
+    box-shadow: 5px 5px 10px gray;
+    margin: 60px;
+    cursor: pointer;
+}
+
+
+.hr{ 
+    background-image: linear-gradient(to bottom, #719663 0%, #bddb69 100%);
+    color: rgb(73, 136, 1);
+    border: none;
+    box-shadow: 5px 5px 10px gray;
+    border-radius: 8px;
+    margin: 0px 575px 100px 575px;
+    padding: 9px;
 }
